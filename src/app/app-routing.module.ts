@@ -1,6 +1,6 @@
 import {NgModule} from '@angular/core';
 import {ExtraOptions, PreloadAllModules, RouterModule, Routes} from '@angular/router';
-import {APP_ROUTER_CONFIG} from './core/config/router/app-router.config';
+import {APP_ROUTER_CONFIG} from './core/config/routers/app-router.config';
 
 const routes: Routes = [
   {path: '', redirectTo: '/', pathMatch: 'full'},

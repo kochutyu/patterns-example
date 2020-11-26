@@ -1,8 +1,8 @@
 import {Component} from '@angular/core';
 
-import {IRouterConfig} from '../../../../core/interfaces/config/router.interface';
+import {IRouterConfig} from '../../../../core/interfaces/config/routers/router.interface';
 
-import {APP_ROUTER_CONFIG} from '../../../../core/config/router/app-router.config';
+import {APP_ROUTER_CONFIG} from '../../../../core/config/routers/app-router.config';
 
 
 @Component({

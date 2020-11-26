@@ -1,4 +1,4 @@
-import {IRouterConfig} from '../../interfaces/config/router.interface';
+import {IRouterConfig} from '../../interfaces/config/routers/router.interface';
 
 export const APP_ROUTER_CONFIG: Array<IRouterConfig> = [
   {
